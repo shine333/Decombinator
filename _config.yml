@@ -1,0 +1,8 @@
+title: Decombinator
+description: "Decombinator v3: fast, error-correcting analysis of TCR repertoires"
+google_analytics: 
+show_downloads: true
+theme: jekyll-theme-midnight
+
+gems:
+  - jekyll-mentions
